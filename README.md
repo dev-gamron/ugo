@@ -1,1 +1,1 @@
-# ugo browser
+# ugo
