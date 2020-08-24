@@ -22,6 +22,13 @@
   "Wallpapers": [
     {
       "author": "gamron",
+      "url": "https://vod-progressive.akamaized.net/exp=1598264831~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F414%2F15%2F377071691%2F1574534474.mp4~hmac=7c316796d38b516bfa41ddbd138543c6dcddabecc6c65b4c28af1e5921bbfbd7/vimeo-prod-skyfire-std-us/01/414/15/377071691/1574534474.mp4?download=1&filename=video.mp4",
+      "thumbUrl": "https://vod-progressive.akamaized.net/exp=1598264831~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F414%2F15%2F377071691%2F1574534474.mp4~hmac=7c316796d38b516bfa41ddbd138543c6dcddabecc6c65b4c28af1e5921bbfbd7/vimeo-prod-skyfire-std-us/01/414/15/377071691/1574534474.mp4?download=1&filename=video.mp4",
+      "name": "Short Video",
+      "category": "Programmer's choice,Editors' choice"
+    },
+    {
+      "author": "gamron",
       "url": "https://www.rgs.org/RGS/media/RGS-Media-Library/Schools/Teaching%20resources/Key%20Stage%202/1540-mountains.jpg",
       "thumbUrl": "https://www.rgs.org/RGS/media/RGS-Media-Library/Schools/Teaching%20resources/Key%20Stage%202/1540-mountains.jpg",
       "name": "Gamron",
