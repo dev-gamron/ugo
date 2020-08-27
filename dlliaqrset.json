@@ -1,17 +1,41 @@
 {
     "Categories": 
         [
-			{
-                "name": "Test"
+            {
+                "name": "Automobile"
             },
             {
-                "name": "Test-1"
+                "name": "Abstract"
             },
 			{
-                "name": "Test-2"
-            }
+                "name": "Superheroes"
+            },
+			{
+                "name": "Animals"
+            },
             {
-                "name": "Test-3"
+                "name": "Architecture / Cityscape"
+            },
+			{
+                "name": "Black and White"
+            },
+            {
+                "name": "Light / Neons"
+            },
+			{
+                "name": "Nature"
+            },
+            {
+                "name": "Objects"
+            },
+			{
+                "name": "People"
+            },
+            {
+                "name": "Illustrations"
+            },
+			{
+                "name": "Text / Quotes"
             }
         ],
 		"Wallpapers":
@@ -22,27 +46,34 @@
 "thumbUrl":"https://amoled.in/appwallpapers/preview/872_Misc_Amoled_Wallpaper.jpg",
 "blackper":"79.65",
 "name":"Wallpaper",
-"category":"Test-3"},
+"category":"Abstract"},
+{
+"author":"Mod-JS",
+"url":"https://amoled.in/appwallpapers/004_architecture_amoled_wallpaper.jpg",
+"thumbUrl":"https://amoled.in/appwallpapers/preview/004_architecture_amoled_wallpaper.jpg",
+"blackper":"85.01",
+"name":"Grey Grill",
+"category":"Black and white,Architecture / Cityscape"},
 {
 "author":"Mod-JS",
 "url":"https://amoled.in/appwallpapers/873_Misc_Amoled_Wallpaper.jpg",
 "thumbUrl":"https://amoled.in/appwallpapers/preview/873_Misc_Amoled_Wallpaper.jpg",
 "blackper":"93.71",
 "name":"Wallpaper",
-"category":"Test-2"},
+"category":"Abstract"},
 {
 "author":"Ibra Him",
 "url":"https://amoled.in/appwallpapers/875_Misc_Amoled_Wallpaper.jpg",
 "thumbUrl":"https://amoled.in/appwallpapers/preview/875_Misc_Amoled_Wallpaper.jpg",
 "blackper":"95.34",
 "name":"Wallpaper",
-"category":"Test-1"},
+"category":"Abstract"},
 {
 "author":"Ibra Him",
 "url":"https://amoled.in/appwallpapers/876_Misc_Amoled_Wallpaper.jpg",
 "thumbUrl":"https://amoled.in/appwallpapers/preview/876_Misc_Amoled_Wallpaper.jpg",
 "blackper":"75.71",
 "name":"Wallpaper",
-"category":"Test"}
+"category":"Abstract"}
 			]
 }
