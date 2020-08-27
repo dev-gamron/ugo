@@ -1,79 +1,48 @@
 {
     "Categories": 
         [
-            {
-                "name": "Automobile"
-            },
-            {
-                "name": "Abstract"
-            },
 			{
-                "name": "Superheroes"
-            },
-			{
-                "name": "Animals"
+                "name": "Test"
             },
             {
-                "name": "Architecture / Cityscape"
+                "name": "Test-1"
             },
 			{
-                "name": "Black and White"
-            },
+                "name": "Test-2"
+            }
             {
-                "name": "Light / Neons"
-            },
-			{
-                "name": "Nature"
-            },
-            {
-                "name": "Objects"
-            },
-			{
-                "name": "People"
-            },
-            {
-                "name": "Illustrations"
-            },
-			{
-                "name": "Text / Quotes"
+                "name": "Test-3"
             }
         ],
 		"Wallpapers":
     [
             {
-"author":"...",
-"url":"https://amoled.in/appwallpapers/872_Misc_Amoled_Wallpaper.jpg",
-"thumbUrl":"https://amoled.in/appwallpapers/preview/872_Misc_Amoled_Wallpaper.jpg",
+"author":"Mod-JS",
+"url":"https://realzhangandandroid.github.io/amoled/thumb/pedro-da-silva-Fqw7jHFZRZ0-unsplash_t.jpg",
+"thumbUrl":"https://realzhangandandroid.github.io/amoled/thumb/pedro-da-silva-Fqw7jHFZRZ0-unsplash_t.jpg",
 "blackper":"79.65",
-"name":"",
-"category":"Illustrations"},
+"name":"Wallpaper",
+"category":"Test-3"},
 {
-"author":"...",
-"url":"https://amoled.in/appwallpapers/873_Misc_Amoled_Wallpaper.jpg",
-"thumbUrl":"https://amoled.in/appwallpapers/preview/873_Misc_Amoled_Wallpaper.jpg",
+"author":"Mod-JS",
+"url":"https://free4kwallpapers.com/uploads/originals/2020/02/14/a-super-detailed-fantasy-world-.-been-there-in-my-collection-since-years-wallpaper_.jpg",
+"thumbUrl":"https://free4kwallpapers.com/uploads/originals/2020/02/14/a-super-detailed-fantasy-world-.-been-there-in-my-collection-since-years-wallpaper_.jpg",
 "blackper":"93.71",
-"name":"",
-"category":"Illustrations"},
+"name":"Wallpaper",
+"category":"Test-2"},
 {
-"author":"...",
-"url":"https://amoled.in/appwallpapers/875_Misc_Amoled_Wallpaper.jpg",
-"thumbUrl":"https://amoled.in/appwallpapers/preview/875_Misc_Amoled_Wallpaper.jpg",
+"author":"Ibra Him",
+"url":"https://i.redd.it/uq9bg14gkmi41.jpg",
+"thumbUrl":"https://i.redd.it/uq9bg14gkmi41.jpg",
 "blackper":"95.34",
-"name":"",
-"category":"Illustrations"},
+"name":"Wallpaper",
+"category":"Test-1"},
 {
-"author":"...",
-"url":"https://amoled.in/appwallpapers/876_Misc_Amoled_Wallpaper.jpg",
-"thumbUrl":"https://amoled.in/appwallpapers/preview/876_Misc_Amoled_Wallpaper.jpg",
+"author":"Ibra Him",
+"url":"https://i.redd.it/uq9bg14gkmi41.jpg",
+"thumbUrl":"https://i.redd.it/uq9bg14gkmi41.jpg",
 "blackper":"75.71",
-"name":"",
-"category":"People"},
-{
-"author":"...",
-"url":"https://amoled.in/appwallpapers/877_Misc_Amoled_Wallpaper.jpg",
-"thumbUrl":"https://amoled.in/appwallpapers/preview/877_Misc_Amoled_Wallpaper.jpg",
-"blackper":"91.00",
-"name":"",
-"category":"Illustrations"}
+"name":"Wallpaper",
+"category":"Test"}
 			]
 }
